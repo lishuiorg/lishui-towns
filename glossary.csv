@@ -1,0 +1,72 @@
+zh,en,category,note
+溧水,Lishui,地名,必须与浙江丽水（Lishui, Zhejiang）区分，英文行文统一写 Lishui, Nanjing 或 Lishui District
+溧水区,Lishui District,行政区划,首次出现用全称，后文可用 the district
+溧水县,Lishui County,行政区划,2013 年撤县设区前的县制名称
+永阳街道,Yongyang Subdistrict,行政区划,通名 Subdistrict，其余街道同理
+柘塘街道,Zhetang Subdistrict,行政区划,与溧水开发区合署
+东屏街道,Dongping Subdistrict,行政区划,
+洪蓝街道,Honglan Subdistrict,行政区划,
+石湫街道,Shiqiu Subdistrict,行政区划,
+白马镇,Baima Town,行政区划,通名 Town，其余镇同理
+和凤镇,Hefeng Town,行政区划,
+晶桥镇,Jingqiao Town,行政区划,
+溧水开发区,Lishui Development Zone,行政区划,与柘塘街道合署，正式名称为南京溧水经济开发区
+南京溧水经济开发区,Nanjing Lishui Economic Development Zone,行政区划,柘塘街道合署机构的全称
+永阳,Yongyang,地名,永阳街道
+柘塘,Zhetang,地名,柘塘街道
+东屏,Dongping,地名,东屏街道
+洪蓝,Honglan,地名,洪蓝街道
+石湫,Shiqiu,地名,石湫街道
+白马,Baima,地名,白马镇
+和凤,Hefeng,地名,和凤镇
+晶桥,Jingqiao,地名,晶桥镇
+石湫坝,Shiqiu Dam,古迹,石湫街道得名的水利设施，音译专名 + 意译通名
+仓口村,Cangkou Village,地名,洪蓝街道塘西村，江苏省传统村落，村内有三座清代宗祠
+仓口,Cangkou,地名,仓口村
+塘西村,Tangxi Village,行政区划,洪蓝街道
+石山下,Shishanxia,地名,晶桥镇芮家村，江苏省传统村落；通名不显，整体音译不加 Village
+芮家村,Ruijia Village,行政区划,晶桥镇
+李巷,Lixiang,地名,白马镇石头寨村，江苏省传统村落；通名不显，整体音译
+石头寨村,Shitouzhai Village,行政区划,白马镇
+上庄,Shangzhuang,地名,洪蓝街道上港社区，江苏省传统村落；通名不显，整体音译
+上港社区,Shanggang Community,行政区划,洪蓝街道
+孙家巷村,Sunjiaxiang Village,行政区划,和凤镇
+杨家村,Yangjia Village,行政区划,和凤镇孙家巷村杨家，江苏省传统村落
+张家村,Zhangjia Village,行政区划,和凤镇，第六批中国传统村落；村内诸家为第一批江苏省传统村落
+吴村桥村,Wuqiao Village,行政区划,和凤镇，第八批江苏省传统村落陈郭所在行政村
+山南村,Shannan Village,行政区划,洪蓝街道，第七批江苏省传统村落；名单报道中与旧镇名连写
+陈郭,Chenguo,地名,和凤镇吴村桥村，第八批江苏省传统村落；通名不显，整体音译
+邰村,Tai Village,行政区划,晶桥镇，江苏省传统村落
+骆山村,Luoshan Village,行政区划,和凤镇，骆山大龙的流传地
+蒲塘,Putang,地名,洪蓝街道蒲塘社区；通名不显，整体音译
+诸家,Zhujia,地名,和凤镇诸家村；通名不显，整体音译
+年代未详,Date undetermined,时期,条目 era 字段的取值
+南京市溧水区人民政府,Nanjing Lishui District People's Government,机构,
+江苏省人民政府,Jiangsu Provincial People's Government,机构,
+江苏省住房和城乡建设厅,Jiangsu Provincial Department of Housing and Urban-Rural Development,机构,江苏省传统村落名录的公布部门
+南京市溧水区民政局,Nanjing Lishui District Civil Affairs Bureau,机构,
+南京市溧水区统计局,Nanjing Lishui District Bureau of Statistics,机构,
+南京市规划和自然资源局溧水分局,Nanjing Lishui Branch of the Municipal Bureau of Planning and Natural Resources,机构,
+江苏省传统村落名录,Jiangsu Traditional Village List,名录,分批次公布，引用时须写明批次与年份
+中国传统村落名录,Chinese Traditional Village List,名录,由住房和城乡建设部等部门公布
+江苏省传统村落,Traditional Village of Jiangsu,名录,条目 traditional_village 字段的写法之一，英文稿写 Jiangsu Traditional Village (第X批, 年份)
+年号通用式,era naming,规则,纪年按 glossary 的年号词根判定可译，不逐条登记完整纪年
+团山社区,Tuanshan Community,行政区划,柘塘街道办事处驻地
+板桥社区,Banqiao Community,行政区划,永阳街道办事处驻地
+白马社区,Baima Community,行政区划,白马镇人民政府驻地
+方边社区,Fangbian Community,行政区划,东屏街道办事处驻地
+三里亭社区,Sanliting Community,行政区划,洪蓝街道办事处驻地
+石湫社区,Shiqiu Community,行政区划,石湫街道办事处驻地
+双牌石社区,Shuangpaishi Community,行政区划,和凤镇人民政府驻地
+新桥社区,Xinqiao Community,行政区划,晶桥镇人民政府驻地
+柘塘社区,Zhetang Community,行政区划,与柘塘街道同名的居民委员会；非街道驻地
+洪蓝社区,Honglan Community,行政区划,与洪蓝街道同名的居民委员会；非街道驻地
+徐溪社区,Xuxi Community,行政区划,东屏街道
+长乐社区,Changle Community,行政区划,东屏街道
+定湖社区,Dinghu Community,行政区划,东屏街道
+金湖社区,Jinhu Community,行政区划,东屏街道
+爱廉村,Ailian Village,行政区划,东屏街道
+爱民村,Aimin Village,行政区划,东屏街道
+和平村,Heping Village,行政区划,东屏街道
+丽山村,Lishan Village,行政区划,东屏街道
+白鹿村,Bailu Village,行政区划,东屏街道

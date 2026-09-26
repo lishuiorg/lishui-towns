@@ -1,0 +1,25 @@
+{
+  "$comment": "溧水街镇取值表。内容 front-matter 中的枚举字段只能取本文件列出的值；新增取值必须先改这里，再改校验脚本。共享底座 lishui-kit 落地后，本文件由底座统一维护，各分站只声明自己用到的子集。",
+  "site": {
+    "id": "lishui-towns",
+    "host": "jiezhen.lishui.org",
+    "name": "溧水街镇",
+    "nameEn": "Lishui Towns",
+    "domain": "lishui.org"
+  },
+  "types": ["place", "article"],
+  "langs": ["zh", "en"],
+  "dynasty": ["隋", "唐", "宋", "元", "明", "清", "民国", "当代"],
+  "precision": ["year", "decade", "century", "unknown"],
+  "depth": ["stub", "standard", "full"],
+  "status": ["draft", "review", "published"],
+  "confidence": ["high", "medium", "low"],
+  "rights": ["public-domain", "gov-open", "excerpt-only", "link-only", "permission-required"],
+  "archive": ["fulltext", "link-registered", "catalogued-only", "excerpt", "link"],
+  "sourceType": ["gazetteer", "epigraphy", "archive", "gov", "heritage-list", "academic", "media", "fieldwork"],
+  "unitType": ["街道", "镇", "村", "社区"],
+  "placeType": ["行政区划", "村落"],
+  "genre": ["地名", "姓氏", "沿革", "综述"],
+  "idPattern": "^ls:(place|article):[a-z0-9]+(-[a-z0-9]+)*$",
+  "sourceIdPattern": "^src:[a-z0-9]+(-[a-z0-9]+)*$"
+}
